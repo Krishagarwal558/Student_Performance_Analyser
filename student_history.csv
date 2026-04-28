@@ -1,0 +1,5 @@
+study_hours,prev_marks,play_hours,attendance,assignments,predicted_score,result
+4.5,73.0,2.0,87.0,7.0,85.68,PASS
+3.0,87.0,4.0,83.0,7.0,80.21,PASS
+0.0,0.0,24.0,0.0,0.0,-50.31,FAIL
+4.0,68.0,6.0,78.0,5.0,66.57,PASS
